@@ -11,7 +11,8 @@ Guests using the Booking.com app often face uncertainty after they book a room, 
 - [User Stories] (docs/user-stories.md)
 
 
-
-
 ## Status
-In Progress
+Completed
+
+## Author
+Muhammad Hafiy Haiqal bin Nor Mohd Hamzah

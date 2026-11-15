@@ -8,6 +8,7 @@ Guests using the Booking.com app often face uncertainty after they book a room, 
 ## Documents 
 - [Problem Statement] (docs/problem-statement.md)
 - [Requirements] (docs/requirements.md)
+- [User Stories] (docs/user-stories.md)
 
 
 

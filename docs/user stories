@@ -1,0 +1,20 @@
+USER STORIES
+
+US1: Extending a Stay
+As a guest with an active booking, I want to extend my stay from the app so that I don’t have to call the front desk or make a new booking.
+Acceptance criteria:
+Given I have an active booking more than 24 hours before check-out when I open the extension option, then I see whether my current room is available and the price per extra night and total cost.
+When I confirm the extension, the system re-checks availability and if the room is still free, it updates my booking and shows a confirmation with the new check-out date and total price.
+I can complete the extension in no more than 3 steps from the booking page or notification.
+US2: Timely Reminders
+As a guest, I want to be reminded before my check-out date so that I have time to decide whether to extend.
+Acceptance criteria:
+For stays longer than 3 days, I receive notifications 7 days and 3 days before check-out. For shorter stays, I receive one notification 48 hours before check-out.
+Each notification contains a link that takes me directly to the extension option.
+I can view and turn off reminders in my notification settings.
+US3: Handling an Unavailable Room
+As a guest, I want to be offered other options when my room isn’t available so that I’m not stuck at a dead end.
+Acceptance criteria:
+When my current room is unavailable for the requested extension, the app suggests at least one alternative, such as a different room type or a nearby date.
+If the price or availability changes between viewing and confirming, the app tells me what changed in details according to my purchase
+If my connection drops during confirmation, the app shows my actual booking status when I reconnect and I am never charged without an updated booking.
